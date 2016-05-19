@@ -1,0 +1,22 @@
+プロジェクト作成
+http://qiita.com/yu_eguchi/items/9a56e6c6281c1f0435ff
+
+
+MavenのJavaバージョン指定方法
+http://qiita.com/kz1202/items/aa0f2f110908ff7ff530
+
+
+Maven Installでエラー→プロキシ設定
+https://hirooka.pro/?p=6221
+
+↑を実行してもエラーになる場合
+http://ponkotsusechan.hatenadiary.jp/entry/2016/02/01/173000
+
+
+新規プロジェクトをGitHubにPush
+http://qiita.com/cotrpepe/items/7cafaacb538425a78f1f
+
+
+#Let's Chatのアバター変更
+https://ja.gravatar.com/
+
