@@ -1,22 +1,22 @@
-ƒvƒƒWƒFƒNƒgì¬
+ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆä½œæˆ
 http://qiita.com/yu_eguchi/items/9a56e6c6281c1f0435ff
 
 
-Maven‚ÌJavaƒo[ƒWƒ‡ƒ“w’è•û–@
+Mavenã®Javaãƒãƒ¼ã‚¸ãƒ§ãƒ³æŒ‡å®šæ–¹æ³•
 http://qiita.com/kz1202/items/aa0f2f110908ff7ff530
 
 
-Maven Install‚ÅƒGƒ‰[¨ƒvƒƒLƒVİ’è
+Maven Installã§ã‚¨ãƒ©ãƒ¼â†’ãƒ—ãƒ­ã‚­ã‚·è¨­å®š
 https://hirooka.pro/?p=6221
 
-ª‚ğÀs‚µ‚Ä‚àƒGƒ‰[‚É‚È‚éê‡
+â†‘ã‚’å®Ÿè¡Œã—ã¦ã‚‚ã‚¨ãƒ©ãƒ¼ã«ãªã‚‹å ´åˆ
 http://ponkotsusechan.hatenadiary.jp/entry/2016/02/01/173000
 
 
-V‹KƒvƒƒWƒFƒNƒg‚ğGitHub‚ÉPush
+æ–°è¦ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’GitHubã«Push
 http://qiita.com/cotrpepe/items/7cafaacb538425a78f1f
 
 
-#Let's Chat‚ÌƒAƒoƒ^[•ÏX
+#Let's Chatã®ã‚¢ãƒã‚¿ãƒ¼å¤‰æ›´
 https://ja.gravatar.com/
 
